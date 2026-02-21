@@ -1,16 +1,21 @@
-# React + Vite
+Food Delivery App:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Food Delivery web application built using React + Vite.
+This app displays different categories of items:
+    Foods
+    Drinks
+    Desserts
+ Users can click the category tabs to view different food items with images and prices.
+ 
+ Features:
 
-Currently, two official plugins are available:
+  Category-based filtering (Foods, Drinks, Desserts):
+  Clean and modern UI
+  Responsive card design
+  Simple navigation
+  Organized folder structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Project Structure: <img width="380" height="702" alt="image" src="https://github.com/user-attachments/assets/cafdc9f1-43b2-481e-9f20-e11e1382db6b" />
+OUTPUT: 1 .Foods: <img width="1065" height="771" alt="image" src="https://github.com/user-attachments/assets/de9f55a3-6ef7-4acd-8268-242fc8c66e0c" />
+        2. Drinks: <img width="1047" height="741" alt="image" src="https://github.com/user-attachments/assets/9cd5b479-b215-4a7d-b0b1-e2456ef22a3d" />
+        3.Desserts: <img width="1054" height="759" alt="image" src="https://github.com/user-attachments/assets/497c10d4-b01e-4e01-b557-86fb72f11833" />
